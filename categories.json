@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ai",
+    "name": "AI",
+    "icon": "icons/ai.svg",
+    "description": ""
+  },
+  {
+    "id": "companies",
+    "name": "Companies",
+    "icon": "icons/companies.svg",
+    "description": "Companies doing interesting work, with fresh ways of working"
+  },
+  {
+    "id": "cool-internet",
+    "name": "Cool Internet",
+    "icon": "icons/cool internet.svg",
+    "description": ""
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "icon": "icons/design.svg",
+    "description": ""
+  },
+  {
+    "id": "people",
+    "name": "People",
+    "icon": "icons/people.svg",
+    "description": ""
+  },
+  {
+    "id": "read",
+    "name": "Read",
+    "icon": "icons/read.svg",
+    "description": ""
+  },
+  {
+    "id": "research",
+    "name": "Research",
+    "icon": "icons/research.svg",
+    "description": ""
+  },
+  {
+    "id": "tech",
+    "name": "Tech",
+    "icon": "icons/tech.svg",
+    "description": ""
+  },
+  {
+    "id": "websites",
+    "name": "Websites",
+    "icon": "icons/websites.svg",
+    "description": ""
+  }
+]
