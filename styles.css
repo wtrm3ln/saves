@@ -118,3 +118,45 @@ a {
     opacity: 0.6;
     text-decoration: none;
 }
+
+/* ------------------ MOBILE ------------------ */
+@media (max-width: 768px) {
+
+    body {
+        flex-direction: column;
+    }
+
+    .main-content {
+        padding: 24px;
+        padding-bottom: 140px; /* space for bottom sidebar */
+    }
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: fixed;
+        bottom: 0;
+        top: auto;
+        left: 0;
+        padding: 1rem;
+        z-index: 1000;
+    }
+
+    .tags-container {
+        padding: 1rem 0 0 0;
+        overflow-x: auto;
+    }
+
+    .tag {
+        white-space: nowrap;
+    }
+
+    /* Reduce title sizes */
+    .item-title {
+        font-size: 28px;
+    }
+
+    .category-title {
+        font-size: 14px;
+    }
+}
