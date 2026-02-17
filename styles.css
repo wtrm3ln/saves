@@ -56,10 +56,6 @@ body {
     background-color: var(--white);
 }
 
-.tag.active .tag-icon {
-
-}
-
 
 .tag-icon {
     width: 18px;
@@ -94,6 +90,10 @@ body {
     margin-top: 0.5rem;
     opacity: 0.6;
 }
+
+.items-container {
+    margin-left: 3rem;
+}   
 
 .item {
     margin-bottom: 2rem;

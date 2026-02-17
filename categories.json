@@ -3,7 +3,7 @@
     "id": "ai",
     "name": "AI",
     "icon": "icons/ai.svg",
-    "description": ""
+    "description": "AI tools"
   },
   {
     "id": "companies",
@@ -21,36 +21,36 @@
     "id": "design",
     "name": "Design",
     "icon": "icons/design.svg",
-    "description": ""
+    "description": "Design tools"
   },
   {
     "id": "people",
     "name": "People",
     "icon": "icons/people.svg",
-    "description": ""
+    "description": "People with interesting approaches to work and creativity"
   },
   {
     "id": "read",
     "name": "Read",
     "icon": "icons/read.svg",
-    "description": ""
+    "description": "Essays worth re-reading"
   },
   {
     "id": "research",
     "name": "Research",
     "icon": "icons/research.svg",
-    "description": ""
+    "description": "Research tools"
   },
   {
     "id": "tech",
     "name": "Tech",
     "icon": "icons/tech.svg",
-    "description": ""
+    "description": "Tech tools"
   },
   {
     "id": "websites",
     "name": "Websites",
     "icon": "icons/websites.svg",
-    "description": ""
+    "description": "Websites with great visual design, interactions and storytelling"
   }
 ]
